@@ -3,7 +3,7 @@
 const userData = {
     token: "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VyIjp7InVzZXJJZCI6IjY3YTg0ZmM3ODdiOGNmNTYyYjU1NDkxOSIsImVtYWlsIjoiam9obmRvZUBleGFtcGxlLmNvbSJ9LCJnZW5lcmF0ZWRUaW1lIjoxNzM5MDgzNzI5ODUwLCJpYXQiOjE3MzkwODM3Mjl9.zH8PXJw30GCbtW12b9rkrQKcyHnNy1COe4esnQrlVzc",
 updateMeal: "lunch",
-status: "completed",
+status: "completd",
 totalCalories: 600,
 totalCarbs: 75,
 totalFats: 20,
