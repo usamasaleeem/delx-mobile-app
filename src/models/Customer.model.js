@@ -9,6 +9,9 @@ const customerSchema = new mongoose.Schema(
       orgid: {
       type: String,
       required: true
+      //asddasd
+      //asd
+      //asddasdasd
     },
     phone: {
       type: String,
